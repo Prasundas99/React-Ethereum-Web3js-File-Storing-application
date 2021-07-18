@@ -1,4 +1,4 @@
-## ``` React-Blockchain-Web3js-File-Storing-application ```
+## ``` React-Ethereum-Web3js-File-Storing-application ```
 
 
 ## 🔧 Project Diagram:
